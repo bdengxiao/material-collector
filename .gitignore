@@ -1,0 +1,21 @@
+# Local environments and generated files
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+build/
+dist/
+logs/
+archive/
+delivery*/
+wheelhouse/
+.env
+.env.*
+*.msq
+*.msq.bak
+*.bak
+*.partial
+*.zip
+*.exe
+*.dll
+*.pyd
